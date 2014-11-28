@@ -2,14 +2,14 @@
 # Author: Edwardo S. Rivera 
 # Date: November 28,2014
 # email: edwardo.rivera@upr.edu
-# Description: This program reverses a string using the API
-# of the CODE 2040 API Challenge. Stage 2.
+# Description: This program finds the index of an element in
+# a given array. Part of the CODE 2040 API Challenge. Stage 2.
 # ==========================================================
 from json import loads,dumps
 from requests import post
 from mytoken import mytoken
 
-# Use this for other language like C++ :)
+# Use this for other language like C++ :). Not used here
 def findNed(ned,array):
 	""" Returns the index where ned is inside the array"""
 	for i in range(0,len(array)):
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 	# Use map: pass a lambda function to create a list of python strings (not unicode). 
 	l = map(lambda x: x.encode('ascii'),info['result']['haystack'])
 	print "List is: ", l 
-	#Find the index where ned is (the challenge)
+	#Find the index where ned is (the challenge). Lists in Python provides a method for this (index)
 	ned_index = l.index(ned)
 	print "index is: ", ned_index
 	# Pack result. Send the post back to the server.
