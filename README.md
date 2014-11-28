@@ -8,7 +8,7 @@ on Friday morning. I made some changes to a more readable code in Friday evening
 
 ##Learning Curve
 I really liked the challenge. Although I studied the HTTP protocol in my Networking class, it was the first time that
-I comunicate with an API. To understand how it works, I followed CodeAcademy quick [tutorial](http://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1) of API to see examples on how the requests and json libraries from Python can be used to communicate with the API. I really feel that I learned a lot just reading and programming this exercises.
+I comunicate with an API. To understand how it works, I followed CodeAcademy quick [tutorial](http://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1) of API to see examples on how the requests and json libraries from Python can be used to communicate with the API. I really feel that I learned a lot just reading the documentation and programming this exercises.
 
 ##Stages
 The first three stages where very straithforward. The last one, (interval.py) was a bit trikier. Nevertheless,
@@ -30,5 +30,5 @@ Although I cannot implement the following in other programming languages such as
 **Stage 4 Adding a time interval to a date** - More trikier than the others, can use built-in libraries to be efficient. Or, use quotients and remainders (which looks ok to me). In C++: maybe something like [this](http://stackoverflow.com/questions/9527960/how-do-i-construct-an-iso-8601-datetime-in-c).
 
 ##Questions?
-Any question about the programming exercise? Wnat to know more about me? Contact me at edwardo.rivera@upr.edu and, happy coding!
+Any question about the programming exercises? Want to know more about me? Contact me at edwardo.rivera@upr.edu and, happy coding!
     
