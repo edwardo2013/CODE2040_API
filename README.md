@@ -11,12 +11,12 @@ I really liked the challenge. Although I studied the HTTP protocol in my Network
 I comunicate with an API. To understand how it works, I followed CodeAcademy quick [tutorial](http://www.codecademy.com/courses/python-intermediate-en-6zbLp/0/1) of API to see examples on how the requests and json libraries from Python can be used to communicate with the API. I really feel that I learned a lot just reading the documentation and programming this exercises.
 
 ##Stages
-The first three stages where very straithforward. The last one, (interval.py) was a bit trikier. Nevertheless,
+The first three stages where very straightforward. The last one, (interval.py) was a bit trikier. Nevertheless,
 I manage to get it done using the datetime Python library. 
 
 Although I cannot implement the following in other programming languages such as C++ using the cpp-netlib library due to time constrains (Partial and Final Exams are ahead) is easy to see that it can be programmed very easily:
 
-**Stage 1 reverse a string** - I used a very straithforward implementation a la C++, but there are several ways to do it.
+**Stage 1 reverse a string** - I used a very straightforward implementation a la C++, but there are several ways to do it.
 
 * Using recursion: Solve this using a recursive function is easy.
 * Using a stack: Reversing calls for it.
